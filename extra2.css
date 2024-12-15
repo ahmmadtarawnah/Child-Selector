@@ -1,0 +1,21 @@
+div{
+    display: inline-block;
+    div{
+        text-align: center;
+        line-height: 50px;
+        width: 70px;
+        height: 70px;
+        background-color: rgb(194, 209, 195);
+        color: rgb(25, 0, 255);
+        margin-bottom: 15px;
+        font-size: 25px;
+        cursor:wait
+        
+        } 
+        div:hover{
+            background-color: yellow;
+            color: red;
+    
+        }
+    }
+   

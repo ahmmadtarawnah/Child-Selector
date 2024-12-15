@@ -1,0 +1,23 @@
+
+     
+ span{
+    
+     display: inline-block;
+     border-color: black;
+     border-style: solid;
+     width: 90px;
+     height: 30px;
+     background-color: rgb(255, 0, 0);
+     color: aliceblue;
+     margin: 5px;
+     text-align: center;
+     
+     
+ }
+ span:nth-child(2n-2) {
+     background-color: green;
+     margin-left: 10px;
+     transform: translateY(30px);  
+     display: none;  
+
+ }
